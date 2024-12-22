@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif">
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ronakmishra" /> </p>
 
 - 🌱 I’m currently exploring Apache Airflow for workflow orchestration while enhancing my expertise in Data Engineering and advanced Analytics using Snowflake and Tableau.
