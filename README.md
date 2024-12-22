@@ -37,6 +37,7 @@
   <a href="https://linkedin.com/in/ronak-mishra404" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronak-mishra404" height="30" width="40" />
   </a>
+  &nbsp;&nbsp; <!-- This adds space between icons -->
   <a href="mailto:ronak.mishra404@gmail.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="ronak.mishra404@gmail.com" height="30" width="40" />
   </a>
