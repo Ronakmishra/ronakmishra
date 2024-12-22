@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ronakmishra" /> </p>
 
-- 🌱 I’m currently exploring Apache Airflow for workflow orchestration while enhancing my expertise in Data Engineering and advanced Analytics        using Snowflake and Tableau.**.
+- 🌱 I’m currently exploring Apache Airflow for workflow orchestration while enhancing my expertise in Data Engineering and advanced Analytics using Snowflake and Tableau.
 - 👨‍🎓 Pursuing a Master's in Information Systems at Northeastern University (GPA: 3.63/4.0).
 - 🚀 Skills:
   - **Data Engineering:** Apache Airflow, Talend, Azure Data Factory, Snowflake, AWS S3/EC2/EMR.
@@ -22,6 +22,7 @@
   - **Multilingual Chatbot:** RNN-based chatbot with custom embeddings, ensuring semantic coherence and mitigating contextual biases.
 - 📫 How to reach me: **ronak.mishra404@gmail.com**
 - 🌐 LinkedIn: [linkedin.com/in/ronak-mishra404](https://linkedin.com/in/ronak-mishra404)
+
 
 ---
 
