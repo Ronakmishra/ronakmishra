@@ -1,7 +1,8 @@
 ![MasterHead](https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1)
 
 <h1 align="center">Hi, I'm Ronak Mishra! 👋</h1>
-<h3 align="center">Data Engineer & Analyst | Exploring Airflow & Data-Driven Insights</h3>
+<h3 align="center">Data Engineer & Analyst | Exploring Advanced Data Engineering and Analytics Solutions</h3>
+
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
 
