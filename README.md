@@ -14,9 +14,11 @@
   - **Analytics & Visualization:** Tableau, Power BI, Alteryx, Python (Pandas, NumPy, Matplotlib), SQL.
   - **Machine Learning & NLP:** Regression, Classification, Clustering, RNNs, XGBoost, LangChain.
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 ## 💻 Notable Projects
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 - **Data Pipeline for Spotify:** Automated ETL pipeline with Apache Airflow and Spark; Snowflake & AWS for cloud-native scalability.
 - **End-to-End ML Pipeline:** Prediction system for student scores using Flask, AWS Elastic Beanstalk, and CI/CD pipelines.
@@ -24,16 +26,20 @@
 - **LLM SQL End-to-End Project:** NLP-driven SQL query system using Google Palm LLM and LangChain, reducing query resolution time by 60%.
 - **Multilingual Chatbot:** RNN-based chatbot with custom embeddings, ensuring semantic coherence and mitigating contextual biases.
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 ## 📫 How to reach me
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 **Email:** ronak.mishra404@gmail.com  
 **LinkedIn:** [linkedin.com/in/ronak-mishra404](https://linkedin.com/in/ronak-mishra404)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 ## 💻 Languages and Tools
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
@@ -48,9 +54,11 @@
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 ## 📊 GitHub Stats
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 <p align="center">
   <a href="https://git.io/streak-stats">
