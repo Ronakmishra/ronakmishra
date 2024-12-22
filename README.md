@@ -4,7 +4,8 @@
 <h3 align="center">Data Engineer & Analyst | Exploring Advanced Data Engineering and Analytics Solutions</h3>
 
 
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ronakmishra" /> </p>
 
