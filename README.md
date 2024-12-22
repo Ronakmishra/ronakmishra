@@ -31,10 +31,17 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
+
 <p align="left">
-<a href="https://linkedin.com/in/ronak-mishra404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronak-mishra404" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ronak-mishra404" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronak-mishra404" height="30" width="40" />
+  </a>
+  <a href="mailto:ronak.mishra404@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="ronak.mishra404@gmail.com" height="30" width="40" />
+  </a>
 </p>
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
