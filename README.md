@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ronakmishra" /> </p>
 
-- 🌱 I’m currently exploring Apache Airflow for workflow orchestration while enhancing my expertise in Data Engineering and advanced Analytics using Snowflake and Tableau.
+- 🌱 I’m currently exploring Apache Airflow for workflow orchestration in Data Engineering and expanding my skills in Analytics using tools like Snowflake and Tableau.
 - 👨‍🎓 Pursuing a Master's in Information Systems at Northeastern University (GPA: 3.63/4.0).
 - 🚀 Skills:
   - **Data Engineering:** Apache Airflow, Talend, Azure Data Factory, Snowflake, AWS S3/EC2/EMR.
