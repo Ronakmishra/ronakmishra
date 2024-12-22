@@ -1,23 +1,25 @@
 ![MasterHead](https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1)
 
 <h1 align="center">Hi, I'm Ronak Mishra! 👋</h1>
-<h3 align="center">Data Engineer & Analyst | Transforming Complex Data into Actionable Insights</h3>
+<h3 align="center">Data Engineer & Analyst | Exploring Airflow & Data-Driven Insights</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/iRB7vrvhPR4AAAAi/data-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ronakmishra" /> </p>
 
-- 🌱 I’m currently exploring **Neo4j Aura** and enhancing my **Data Engineering & Machine Learning Skills**.
+- 🌱 I’m currently exploring **Apache Airflow** and enhancing my **Data Engineering & Machine Learning Skills**.
 - 👨‍🎓 Pursuing a Master's in Information Systems at Northeastern University (GPA: 3.63/4.0).
 - 🚀 Skills:
   - **Data Engineering:** Apache Airflow, Talend, Azure Data Factory, Snowflake, AWS S3/EC2/EMR.
   - **Analytics & Visualization:** Tableau, Power BI, Alteryx, Python (Pandas, NumPy, Matplotlib), SQL.
-  - **Machine Learning:** Regression, Classification, Clustering, Time Series Analysis, XGBoost, NLP.
+  - **Machine Learning & NLP:** Regression, Classification, Clustering, RNNs, XGBoost, LangChain.
 - 💻 Notable Projects:
-  - [Data Pipeline for Spotify](#): ETL automation using Apache Airflow and Spark; cloud-native solution with Snowflake & AWS.
-  - [End-to-End ML Pipeline](#): Scalable prediction system for student scores using Flask, AWS Elastic Beanstalk, and CI/CD.
-  - [Data Warehouse Design](#): Multi-source data profiling, ETL in Talend, and interactive dashboards in Power BI/Tableau.
-- 📫 How to reach me: **mishra.ron@northeastern.edu**
+  - **Data Pipeline for Spotify:** Automated ETL pipeline with Apache Airflow and Spark; Snowflake & AWS for cloud-native scalability.
+  - **End-to-End ML Pipeline:** Prediction system for student scores using Flask, AWS Elastic Beanstalk, and CI/CD pipelines.
+  - **Data Warehouse Design:** Multi-source data profiling, ETL in Talend, and interactive dashboards in Power BI/Tableau.
+  - **LLM SQL End-to-End Project:** NLP-driven SQL query system using Google Palm LLM and LangChain, reducing query resolution time by 60%.
+  - **Multilingual Chatbot:** RNN-based chatbot with custom embeddings, ensuring semantic coherence and mitigating contextual biases.
+- 📫 How to reach me: **ronak.mishra404@gmail.com**
 - 🌐 LinkedIn: [linkedin.com/in/ronak-mishra404](https://linkedin.com/in/ronak-mishra404)
 
 ---
@@ -25,10 +27,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ronak-mishra404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronak-mishra404" height="30" width="40" /></a>
-<a href="https://instagram.com/yourinstagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yourinstagram" height="30" width="40" /></a>
 </p>
 
 ---
+
+# 💻 Languages and Tools
 
 # 💻 Languages and Tools
 
@@ -37,10 +40,14 @@
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white) 
 ![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=PowerBI&logoColor=black) 
 ![Snowflake](https://img.shields.io/badge/Snowflake-%2300C7B7.svg?style=for-the-badge&logo=Snowflake&logoColor=white) 
-![Terraform](https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=Terraform&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=Apache-Airflow&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![Neo4j](https://img.shields.io/badge/Neo4j-%230071C3.svg?style=for-the-badge&logo=Neo4j&logoColor=white) 
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-%23006CC4.svg?style=for-the-badge&logo=alteryx&logoColor=white) 
+![Talend](https://img.shields.io/badge/Talend-%23FF6D01.svg?style=for-the-badge&logo=talend&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
 
 ---
 
