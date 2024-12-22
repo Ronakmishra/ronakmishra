@@ -33,8 +33,6 @@
 
 # 💻 Languages and Tools
 
-# 💻 Languages and Tools
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white) 
@@ -51,6 +49,15 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronakmishra&show_icons=true&locale=en&layout=compact" alt="ronakmishra" /></p>
+## 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronakmishra&" alt="ronakmishra" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronakmishra&theme=radical" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakmishra&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
