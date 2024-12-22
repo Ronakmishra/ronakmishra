@@ -51,13 +51,9 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronakmishra&theme=radical" alt="GitHub Streak" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronakmishra&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ronakmishra&theme=react&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
